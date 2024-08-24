@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonatoClemente
-- 👀 I’m interested in Game Development, Web App tech, and everything creative and fun!
-- 🌱 I’m currently learning Unity Game Dev, React, and all kinds of project management apps.
-- 💞️ I’m looking to collaborate on any project that will have a direct and immediate impact on the world around us.
+- 👀 I’m interested in Game Development, Web App tech, and everything creative!
+- 🌱 I’m currently learning Cloudflare development and deployment tools, 3D Modeling with Blender, and relearning alot of MVC best practices.
+- 💞️ I’m looking to collaborate on any project that has a fun concept or impacts the RGV.
 - 📫 How to reach me: hmu on Discord, my emails are clogged with spam 😆 Donnn#6022
 
 <!---
